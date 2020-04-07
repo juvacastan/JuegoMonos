@@ -1,2 +1,2 @@
-# JugoMonos
+# JuegoMonos
 un jueguito pa monear
